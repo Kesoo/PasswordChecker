@@ -8,4 +8,9 @@
 5. Response containing all breached password hashes is searched for your hash
 6. You get a response telling you if your password has been pwnd or not
 
+### Requirements
+Package `requests` needs to be installed, to install run:
+`pip install requests`
+
+### References
 * [haveibeenpwned API](https://haveibeenpwned.com/API/v3)
